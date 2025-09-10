@@ -1,2 +1,2 @@
-c_list = ["C", "U", "R", "I", "O", "S", "I", "T", "Y"]
+c_list = ["c", "h", "o", "s", "m", "y", "t", "h"]
 print((".".join(c_list)))
